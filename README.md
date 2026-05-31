@@ -2,7 +2,23 @@
 A Python program that gives you a customized sane template to start with.
 
 
+## Installation
+```sh
+pip3 install extend-init
+```
+
+
+## Run the program
+After [installation](#installation):
+
+```sh
+extend-init
+```
+
+
 ## Recommendations
+Install the pip package globally.
+
 ### Python Projects
 Use `uv init` before running `extend-init`.
 
