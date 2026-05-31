@@ -17,7 +17,7 @@ extend-init
 
 
 ## Recommendations
-Install the pip package globally.
+Install the pip package globally using pipx --global: [how to install pipx](https://pipx.pypa.io/stable/how-to/install-pipx/)
 
 ### Python Projects
 Use `uv init` before running `extend-init`.
@@ -31,10 +31,10 @@ Use `npm init` before running `extend-init`.
 
 2. ![Showing question 2](src/extend_init/images/question_2.png)
 
-No as answer:
+No as answer to question 2:
 3. ![Showing question 3](src/extend_init/images/question_3.png)
 
 4. ![Showing question 4](src/extend_init/images/question_4.png)
 
-Yes as answer:
+Yes as answer to question 4:
 5. ![Showing question 5](src/extend_init/images/question_5.png)
