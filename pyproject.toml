@@ -1,6 +1,6 @@
 [project]
 name = "extend-init"
-version = "0.6.9"
+version = "0.6.999999"
 description = "A Python program that gives you a customized sane template to start with."
 readme = "README.md"
 authors = [
@@ -26,8 +26,11 @@ extend-init = "extend_init.main:main"
 requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
+[tool.hatch.build]
+sources = ["src"]
+
 [tool.hatch.build.targets.wheel]
-packages = ["modules"]
+packages = ["extend_init"]
 
 [project.urls]
 Homepage = "https://github.com/placewith5s/extend-init"
