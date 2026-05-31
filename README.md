@@ -1,5 +1,5 @@
 # Extend Init
-A Python program that gives you a customized sane template to start with.
+A Python CLI tool that gives you a customized sane template to start with.
 
 
 ## Installation
