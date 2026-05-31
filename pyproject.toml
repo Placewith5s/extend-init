@@ -1,6 +1,6 @@
 [project]
 name = "extend-init"
-version = "0.6.5"
+version = "0.6.6"
 description = "A Python program that gives you a customized sane template to start with."
 readme = "README.md"
 authors = [
