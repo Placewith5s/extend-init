@@ -1,8 +1,8 @@
 import atexit
 
-from extend_init.modules.frontend_template import *
-from extend_init.modules.empty_folders import ask_common_vanilla_frontend
-from extend_init.modules.empty_files import ask_gh_pages
+from modules.frontend_template import *
+from modules.empty_folders import ask_common_vanilla_frontend
+from modules.empty_files import ask_gh_pages
 
 
 def main() -> None:
