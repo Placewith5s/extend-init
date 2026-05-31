@@ -1,6 +1,6 @@
 import questionary
 
-from modules.sp_helper import *
+from extend_init.modules.sp_helper import *
 
 
 def ask_common_vanilla_frontend() -> None:
